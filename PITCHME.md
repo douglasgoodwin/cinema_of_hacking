@@ -20,7 +20,7 @@ Edward Snowden
 
 ---
 
-![video](https://youtu.be/q92_urgWIV8)
+![Video](https://www.youtube.com/embed/q92_urgWIV8)
 
 ---
 # what's wrong here?
@@ -195,52 +195,52 @@ we will look at some hacking scenes in popular movies after a break.
 ---
 swordfish, hacking with the help of a 3D interface, 2001
 
-![video](https://youtu.be/u1Ds9CeG-VY)
+![Video](https://www.youtube.com/embed/u1Ds9CeG-VY)
 
 ^the most ridiculous interface in the world
 
 ---
 the italian job, hack traffic lights, 2003
 
-![video](https://www.youtube.com/watch?v=q9wJkRVrBDU)
+![Video](https://www.youtube.com/embed/q9wJkRVrBDU)
 
 ^this really happened in los angeles!
 
 ---
 skyfall, mi6 gets hacked 2012
 
-![video](https://youtu.be/aApTVqeGJMw)
+![Video](https://www.youtube.com/embed/aApTVqeGJMw)
 
 ^3D graphics, but more realistic. polymorphic code changes itself. hexcode representation is stretched to accommodate a visual plot point. 
 
 ---
 wargames, 1983
 
-![video](https://youtu.be/U2_h-EFlztY)
+![Video](https://www.youtube.com/embed/U2_h-EFlztY)
 
 ^pretty realistic depiction of a dialup system
 
 ---
 mr. robot hacks into a hospital, 2015
 
-![video](https://youtu.be/g6gG-6Co_v4)
+![Video](https://www.youtube.com/embed/g6gG-6Co_v4)
 
 ^sadly quite realistic. I love mr. robot's hacks. 
 
 ---
 the net, undoing a hack, 1995
 
-![video](https://youtu.be/iSr7kOCdPTc)
+![Video](https://www.youtube.com/embed/iSr7kOCdPTc)
 
 ---
 the matrix reloaded, hacking into a power grid, 2003
 
-![video](https://youtu.be/BCKL0M9jnbY?t=30)
+![Video](https://www.youtube.com/embed/BCKL0M9jnbY?t=30)
 
 ---
 the social network, hackathon, 2010
 
-![video](https://youtu.be/uxKmDWDUZ5A?t=12)
+![Video](https://www.youtube.com/embed/uxKmDWDUZ5A?t=12)
 
 ^over the top, but not too far away from the truth
 
@@ -248,7 +248,7 @@ the social network, hackathon, 2010
 
 sneakers, phreaking, 1992
 
-![video](https://youtu.be/3VlyZIywY9c)
+![Video](https://www.youtube.com/embed/3VlyZIywY9c)
 
 ^cool demo of phreaking: relaying from phone to phone
 
@@ -256,18 +256,18 @@ sneakers, phreaking, 1992
 
 alphaville, 1965
 
-![video](https://youtu.be/uzHThoav6hs)
+![Video](https://www.youtube.com/embed/uzHThoav6hs)
 
 ---
 
 star trek, kirk vs. computer, 1968
 
-![video](https://youtu.be/G6o881n35GU)
+![Video](https://www.youtube.com/embed/G6o881n35GU)
 
 ---
 max headroom pirate broadcast, 1987
 
-![video](https://youtu.be/tWdgAMYjYSs)
+![Video](https://www.youtube.com/embed./tWdgAMYjYSs)
 
 ^this really happened
 
