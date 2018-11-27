@@ -7,7 +7,7 @@ november 2018
 
 Edward Snowden
 
-![fit](https://public-media.smithsonianmag.com/filer/b0/fd/b0fdc6a7-f28c-443f-a86a-0dde6ffe803f/42-62132095.jpg)
+---?image=https://public-media.smithsonianmag.com/filer/b0/fd/b0fdc6a7-f28c-443f-a86a-0dde6ffe803f/42-62132095.jpg
 
 ---
 # Secrecy, Peter Galison & Robb Moss, 2008
@@ -36,7 +36,7 @@ Note:
 
 # Share Lab: Browsing Histories: Metadata explorations
 
-![](https://labs.rs/wp-content/uploads/2017/01/people3.jpg)
+---?image=https://labs.rs/wp-content/uploads/2017/01/people3.jpg
 
 Let's walk through this demonstration to talk about the cinematic potential of metadata. 
 
@@ -46,7 +46,7 @@ you can do better than **Secrecy**
 
 **Mr. J.** opened a browser and joined a public wifi network. Somebody monitored this network for two hours with freely available tools and captured the following images.[^1]
 
-[^1]: Kali Linux equipped with an upgraded wireless card, Wireshark, and Driftnet.
+footnote : "Kali Linux equipped with an upgraded wireless card, Wireshark, and Driftnet."
 
 ---
 
@@ -76,7 +76,7 @@ the URL impressions make a constellation
 
 We can profile his searches[^2]
 
-[^2]:[https://public.tableau.com/views/Query_0/Dashboard1](https://public.tableau.com/views/Query_0/Dashboard1?:embed=y&:display_count=yes&:showVizHome=no)
+footnote : "https://public.tableau.com/views/Query_0/Dashboard1"
 
 ![right](https://www.evernote.com/l/ADPrmjZpGXxMU7-6PdOl9hWU483ZCck8MykB/image.png)
 
@@ -142,7 +142,7 @@ Note:
 Does this add up to a story? 
 Keep watching for a couple of months.[^3]
 
-[^3]: [https://public.tableau.com/profile/joler#!/vizhome/MrJHeat/Mr_JHeatMap](https://public.tableau.com/profile/joler#!/vizhome/MrJHeat/Mr_JHeatMap)
+footnote : "https://public.tableau.com/profile/joler#!/vizhome/MrJHeat/Mr_JHeatMap"
 
 Note:
 ^here we log the amount of clicks at different times of day to establish J's behavior.
@@ -155,7 +155,7 @@ Note:
 
 Tools developed for the Trackography[^4] project by Tactical Tech. 
 
-[^4]: https://trackography.org/
+footnote : "https://trackography.org/"
 
 ---
 
