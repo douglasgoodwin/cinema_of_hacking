@@ -16,6 +16,7 @@ Edward Snowden
 
 ![](https://images-na.ssl-images-amazon.com/images/I/41eOXeQi-zL.jpg)
 
+Note:
 ^a film (by people I admire) that gets it all wrong. 
 
 ---
@@ -85,46 +86,55 @@ We can profile his searches[^2]
 
 ![inline](https://labs.rs/wp-content/uploads/2017/01/bed.gif)
 
+Note:
 ^1/9
 
 ---
 ![inline,fit](https://labs.rs/wp-content/uploads/2017/01/view.gif)
 
+Note:
 ^2/9
 
 ---
 ![inline,fit](https://labs.rs/wp-content/uploads/2017/01/shower.gif)
 
+Note:
 ^3/9
 
 ---
 ![inline,fit](https://labs.rs/wp-content/uploads/2017/01/air2.gif)
 
+Note:
 ^4/9
 
 ---
 ![inline,fit](https://labs.rs/wp-content/uploads/2017/01/taxi.gif)
 
+Note:
 ^5/9
 
 ---
 ![inline,fit](https://labs.rs/wp-content/uploads/2017/01/map.gif)
 
+Note:
 ^6/9
 
 ---
 ![inline,fit](https://labs.rs/wp-content/uploads/2017/01/Admir.gif)
 
+Note:
 ^7/9
 
 ---
 ![inline,fit](https://labs.rs/wp-content/uploads/2017/01/Swiss-club.gif)
 
+Note:
 ^8/9
 
 ---
 ![inline,fit](https://labs.rs/wp-content/uploads/2017/01/yelp.gif)
 
+Note:
 ^9/9
 
 ---
@@ -134,6 +144,7 @@ Keep watching for a couple of months.[^3]
 
 [^3]: [https://public.tableau.com/profile/joler#!/vizhome/MrJHeat/Mr_JHeatMap](https://public.tableau.com/profile/joler#!/vizhome/MrJHeat/Mr_JHeatMap)
 
+Note:
 ^here we log the amount of clicks at different times of day to establish J's behavior.
 
 ---
@@ -172,6 +183,7 @@ what happened in October? check subject lines.
 
 ![inline](https://www.evernote.com/l/ADPBjPr1TmpJe6p8_ONPoyotsXFrLhZfnucB/image.png)
 
+Note:
 ^ subject lines from Amazon and travel egents contain valuabel information
 
 ---
@@ -197,6 +209,7 @@ swordfish, hacking with the help of a 3D interface, 2001
 
 ![Video](https://www.youtube.com/embed/u1Ds9CeG-VY)
 
+Note:
 ^the most ridiculous interface in the world
 
 ---
@@ -204,6 +217,7 @@ the italian job, hack traffic lights, 2003
 
 ![Video](https://www.youtube.com/embed/q9wJkRVrBDU)
 
+Note:
 ^this really happened in los angeles!
 
 ---
@@ -211,6 +225,7 @@ skyfall, mi6 gets hacked 2012
 
 ![Video](https://www.youtube.com/embed/aApTVqeGJMw)
 
+Note:
 ^3D graphics, but more realistic. polymorphic code changes itself. hexcode representation is stretched to accommodate a visual plot point. 
 
 ---
@@ -218,6 +233,7 @@ wargames, 1983
 
 ![Video](https://www.youtube.com/embed/U2_h-EFlztY)
 
+Note:
 ^pretty realistic depiction of a dialup system
 
 ---
@@ -242,7 +258,8 @@ the social network, hackathon, 2010
 
 ![Video](https://www.youtube.com/embed/uxKmDWDUZ5A?t=12)
 
-^over the top, but not too far away from the truth
+Note:
+^GUIs are over the top, but not too far away from the truth
 
 ---
 
@@ -250,6 +267,7 @@ sneakers, phreaking, 1992
 
 ![Video](https://www.youtube.com/embed/3VlyZIywY9c)
 
+Note:
 ^cool demo of phreaking: relaying from phone to phone
 
 ---
@@ -267,8 +285,9 @@ star trek, kirk vs. computer, 1968
 ---
 max headroom pirate broadcast, 1987
 
-![Video](https://www.youtube.com/embed./tWdgAMYjYSs)
+![Video](https://www.youtube.com/embed/tWdgAMYjYSs)
 
+Note:
 ^this really happened
 
 ---
